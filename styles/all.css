@@ -1,0 +1,12 @@
+:root{
+    --blue : #6EB3D0;
+    --green : #B6D7A8;
+    --pink : #F7B6D2;
+    --orange : #F4A623;
+    --black : #000000;
+    --white : #FFFFFF;
+}
+
+header nav{
+    background-color: var(--blue);
+}
