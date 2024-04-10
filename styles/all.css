@@ -10,3 +10,13 @@
 header nav{
     background-color: var(--blue);
 }
+
+.btn-pink{
+    background-color: var(--pink);
+    color: white;
+}
+
+.btn-pink:hover{
+    background-color: #c590a7;
+    color: white;
+}
