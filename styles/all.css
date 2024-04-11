@@ -20,3 +20,17 @@ header nav{
     background-color: #c590a7;
     color: white;
 }
+
+.btn-blue{
+    background-color: var(--blue);
+    color: black;
+}
+
+form .btn-blue:hover{
+    background-color: #629cb4;
+    color: black;
+}
+
+.text-pink{
+    color: #F7B6D2;
+}
